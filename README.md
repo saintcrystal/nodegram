@@ -16,13 +16,6 @@
 - **Calendar Integration** - Event scheduling and management
 - **Advanced Search** - Find nodes by content, type, or metadata
 
-### 🔐 Security & Authentication
-- **JWT Authentication** - Secure user sessions
-- **Google OAuth** - Social login integration
-- **Data Encryption** - Sensitive data encrypted at rest
-- **Role-based Access** - Workspace permissions and member management
-- **Rate Limiting** - API protection against abuse
-
 ### 🎨 User Experience
 - **Dark Theme** - Modern, eye-friendly interface
 - **Responsive Design** - Works on desktop, tablet, and mobile
@@ -76,14 +69,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Stripe** - For payment processing
 - **PHPMailer** - For email functionality
 
-## 📞 Support
-
-- **Issues** - [GitHub Issues](https://github.com/saintcrystal/nodegram/issues)
-- **Discussions** - [GitHub Discussions](https://github.com/saintcrystal/nodegram/discussions)
-- **Email** - support@nodegram.org
-
 ## 🌐 Links
 
 - **Website** - https://nodegram.org
 - **Buy me a coffee** - https://buymeacoffee.com/saintcrystal
+- **Issues** - [GitHub Issues](https://github.com/saintcrystal/nodegram/issues)
 
