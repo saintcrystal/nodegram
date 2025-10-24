@@ -34,6 +34,7 @@ Nodegram offers flexible licensing to meet different needs:
 - **Exclusive brand usage** - Use the "Nodegram.org" name and branding
 - **Domain usage** - Full rights to use nodegram.org domain and subdomains
 - **All rights are yours** - Complete ownership of the brand, trademarks, and intellectual property
+> Business info: saincryst@gmail.com
 
 > **Note**: The MIT license allows you to use the code freely, but if you want to use the "Nodegram" brand name commercially, you'll need a separate commercial license agreement.
 
