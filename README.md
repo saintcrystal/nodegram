@@ -1,4 +1,4 @@
-# 🚀 Nodegram - Interactive Workspace Platform
+# 🚀 Nodegram is now Open Source
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-16+-green.svg)](https://nodejs.org/)
