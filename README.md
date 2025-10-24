@@ -9,14 +9,11 @@
 
 ## ✨ Features
 
-### 🎯 Core Functionality
 - **16+ Node Types** - Text, images, files, calendars, charts, and more
 - **Interactive Editor** - Drag & drop, zoom, pan with D3.js
 - **Real-time Collaboration** - Multi-user workspace support
 - **Calendar Integration** - Event scheduling and management
 - **Advanced Search** - Find nodes by content, type, or metadata
-
-### 🎨 User Experience
 - **Dark Theme** - Modern, eye-friendly interface
 - **Responsive Design** - Works on desktop, tablet, and mobile
 - **Keyboard Shortcuts** - Power user productivity features
