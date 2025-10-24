@@ -30,7 +30,7 @@ Nodegram offers flexible licensing to meet different needs:
 - **In code attribution required** - Build upon Nodegram for your own projects
 - **Self-hosting allowed** - Deploy on your own infrastructure with full control
 
-### 💼 Commercial License (Nodegram.org Brand)
+### 💼 Business Brand License (Nodegram.org)
 - **Exclusive brand usage** - Use the "Nodegram.org" name and branding
 - **Domain usage** - Full rights to use nodegram.org domain and subdomains
 - **All rights are yours** - Complete ownership of the brand, trademarks, and intellectual property
