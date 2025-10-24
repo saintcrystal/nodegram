@@ -21,6 +21,22 @@
 - **Keyboard Shortcuts** - Power user productivity features
 - **Customizable UI** - Personalize your workspace
 
+## 📋 Licensing Options
+
+Nodegram offers flexible licensing to meet different needs:
+
+### 🆓 MIT License (Open Source)
+- **Free for commercial use** - Use, modify, and distribute without restrictions
+- **In code attribution required** - Build upon Nodegram for your own projects
+- **Self-hosting allowed** - Deploy on your own infrastructure with full control
+
+### 💼 Commercial License (Nodegram.org Brand)
+- **Exclusive brand usage** - Use the "Nodegram.org" name and branding
+- **Domain usage** - Full rights to use nodegram.org domain and subdomains
+- **All rights are yours** - Complete ownership of the brand, trademarks, and intellectual property
+
+> **Note**: The MIT license allows you to use the code freely, but if you want to use the "Nodegram" brand name commercially, you'll need a separate commercial license agreement.
+
 ## 🏗 Architecture
 
 ### Frontend (React + Vite)
