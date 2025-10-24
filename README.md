@@ -7,6 +7,8 @@
 
 > **Nodegram** is a powerful, interactive workspace platform that allows users to create, manage, and collaborate on various types of content nodes in a visual, drag-and-drop interface. Built with modern web technologies and designed for scalability.
 
+## [Try Nodegram.org Freemium](https://nodegram.org/)
+
 ## ✨ Features
 
 - **16+ Node Types** - Text, images, files, calendars, charts, and more
